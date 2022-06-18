@@ -4,7 +4,7 @@
     <input class="cursor-pointer" v-model="store.color" type="color" />
   </label>
 </template>
-
+<!-- Commande -->
 <script setup>
 import { useMappingStore } from "@/stores/MappingStore";
 

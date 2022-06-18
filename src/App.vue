@@ -2,7 +2,7 @@
 import NavItem from "./components/NavItem.vue";
 import NavTab from "./components/NavTab.vue";
 import ColorPicker from "./components/ColorPicker.vue";
-
+// Commentaire
 export default {
   components: {
     NavItem,
